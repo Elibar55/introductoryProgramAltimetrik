@@ -14,7 +14,7 @@ Rebase commits on top of another base branch.
 
 #Branching strategy
 
-A branching strategy, therefore, is the strategy that software development teams adopt when writing, merging and deploying code when using a version control system.
+A branching strategy, is the strategy that software development teams adopt when writing, merging and deploying code when using a version control system.
 
 It is essentially a set of rules that developers can follow to stipulate how they interact with a shared codebase.
 

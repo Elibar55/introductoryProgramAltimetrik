@@ -11,6 +11,7 @@ This project is ment to document my progress while going thru the bootcamp.
 Contributors names and contact info
 
  Eliseo Barreiro
+ eliseobarreiro@gmail.com
 
 
 ## Version History
